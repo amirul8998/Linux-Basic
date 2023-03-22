@@ -1,0 +1,32 @@
+# What is self understanding about cloud computing ?
+
+Ans: Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, we can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS).
+
+# Write Cloud Deloyment Models name.
+
+Ans: Public, Private, Community, Hybrid
+
+# Write Cloud Computing models name?
+
+Ans: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), 
+
+# What is full meaning of EC2 & S3?
+
+Ans: EC2: Elastic Compute Cloud, S3: Simple Storage Service
+
+# How many regions & AZs aws have?
+
+Ans: 31 regions around the world, 99 Availability Zones.
+
+# Write the names AWS cores services.
+
+Ans: 1. Computing 2. Networking 3. Storage 4. Database
+
+# When AWS EC2 services first luanch ?
+
+Ans: EC2 launched  in August 2006.
+
+What is AWS VPC for?
+
+
+Ans: Amazon VPC enables to build a virtual network in the AWS cloud.
